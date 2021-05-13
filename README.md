@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**ssigdel/ssigdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, I'm Shirish Sigdyal 👋
 
 - 🔭 I’m currently working on Machine Learning stuff.
 - 🌱 I’m currently learning Artificial Intelligence.
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shirishsigdel26@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a fitness enthusiast and also love playing cricket.
--->
+
