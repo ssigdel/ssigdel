@@ -7,8 +7,6 @@
 - 🤔 I’m looking for help with Machine Learning and Artificial Intelligence.
 - 💬 Ask me about Javascript.
 
-- 📫 How to reach me: shirishsigdel26@gmail.com
-
 - ⚡ Fun fact: I am a fitness enthusiast and also love playing cricket.
 
 
